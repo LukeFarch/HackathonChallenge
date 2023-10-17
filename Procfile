@@ -1,1 +1,1 @@
-web: nginx -c config/nginx.conf
+web: nginx -c config/nginx.conf.erb
