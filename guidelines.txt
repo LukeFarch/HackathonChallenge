@@ -1,0 +1,18 @@
+channel ID for MSU, Cyber-central 1158926484707213395
+
+We need a new private and public key 
+
+two S3 buckets 
+
+AMI permissions 
+
+ENV variables 
+
+permisisons for the bot within the discord and within the url link 
+
+tihs should run every hour
+
+event bridge to ensure it does that eveyr 6 hours
+
+CHECK WHAT NODE MODULES YOULL NEED, ALSO WHAT THE PACKAGE JSON WILL LOOK LIKE
+
